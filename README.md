@@ -20,3 +20,7 @@ Al finalizar la práctica, se deberá subir el código y la configuración de Gi
 
 Enlace de la clase:
 https://classroom.github.com/classrooms/130322061-curso-github-sesion-7
+
+Tarea individual:
+https://classroom.github.com/a/VPc5Wvt6
+
